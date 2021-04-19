@@ -1,0 +1,7 @@
+- hosts: all
+  tasks:
+  - name: copiar archivo
+    copy:
+      src: ~/prueba.txt
+      dest: /home/jboss/prueba-jboss.txt
+

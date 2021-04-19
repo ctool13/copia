@@ -1,0 +1,5 @@
+[jboss]
+192.168.122.163
+[jboss:vars]
+ansible_user=jboss
+ansible_password=jb0ss0p3r@c10n3s
